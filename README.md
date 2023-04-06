@@ -1,4 +1,4 @@
-![Header](https://shorturl.at/syzTX)
+![Header](https://i.ibb.co/zVkm4TD/Banner.png)
 <h1 align="center">Hi 👋, I'm Ankit Dewangan</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" </img>
